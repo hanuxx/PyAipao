@@ -1,4 +1,4 @@
-name: GitHub Actions Auto Sun Run
+name: GitHub Actions Auto Run
 
 on:
   workflow_dispatch:
